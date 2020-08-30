@@ -1,6 +1,6 @@
 <div align="center">
 
-## PASSWORD GENERATOR
+# PASSWORD GENERATOR
 </div>
 
 ---
