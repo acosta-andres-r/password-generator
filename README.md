@@ -4,7 +4,7 @@
 </div>
 
 ---
-### Deployed app: 
+### Deployed App Link:
 https://acosta-andres-r.github.io/password-generator/
 ### Description:
 Generate a random password based on user-selected criteria.
