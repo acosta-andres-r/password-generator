@@ -1,4 +1,8 @@
+<div align="center">
+
 ## PASSWORD GENERATOR
+</div>
+
 ---
 ### Deployed app: 
 https://acosta-andres-r.github.io/password-generator/
